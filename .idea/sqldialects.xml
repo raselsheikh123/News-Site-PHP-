@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/admin/add-category.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/add-post.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/add-user.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/category.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/delete-category.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/delete-post.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/index.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/post.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/update-category.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/update-post.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/update-user.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/users.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/author.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/category.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/header.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/index.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/search.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sidebar.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/single.php" dialect="GenericSQL" />
+  </component>
+</project>
